@@ -1,0 +1,14 @@
+﻿  p3.cpp
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(122,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(122,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(125,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(126,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(127,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(128,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(135,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(135,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(138,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(139,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(140,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(141,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  P3 Exercise.vcxproj -> C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\Debug\P3 Exercise.exe

@@ -1,0 +1,251 @@
+﻿  p3.cpp
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(284,21): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(284,18): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(284,15): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(288,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(288,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(288,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(291,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(291,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(298,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(301,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(301,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(307,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(310,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(310,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(318,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(318,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(319,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(322,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(326,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(329,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(331,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(332,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(334,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(335,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(337,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(338,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(340,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(341,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(343,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(344,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(346,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(347,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(358,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(371,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(371,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(371,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(374,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(374,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(378,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(378,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(378,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(381,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(381,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(385,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(385,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(385,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(388,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(388,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(392,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(392,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(392,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(395,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(395,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(401,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(401,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(401,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(404,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(404,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(408,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(408,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(408,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(411,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(411,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(415,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(415,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(415,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(418,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(418,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(422,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(422,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(422,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(425,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(425,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(434,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(435,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(436,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(437,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(441,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(442,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(443,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(444,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(453,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(454,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(455,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(456,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(459,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(462,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(467,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(468,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(472,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(473,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(477,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(478,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(482,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(483,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(487,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(488,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(492,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(493,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(494,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(495,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(496,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(503,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(504,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(506,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(507,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(509,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(510,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(512,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(513,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(515,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(516,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(518,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(519,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(524,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(525,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(526,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(527,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(528,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(532,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(536,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(537,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(539,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(540,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(542,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(543,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(545,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(546,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(548,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(549,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(551,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(552,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(554,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(555,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(557,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(558,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(560,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(561,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(563,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(564,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(566,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(567,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(578,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(579,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(581,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(582,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(588,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(591,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(591,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(595,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(596,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(597,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(598,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(599,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(603,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(604,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(605,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(606,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(612,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(613,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(619,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(620,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(627,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(630,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(630,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(634,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(635,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(636,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(637,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(638,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(644,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(651,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(652,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(653,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(654,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(658,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(659,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(660,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(661,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(662,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(668,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(671,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(672,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(675,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(676,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(677,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(678,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(682,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(683,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(684,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(685,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(686,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(693,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(694,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(695,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(696,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(700,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(701,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(702,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(703,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(704,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(711,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(712,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(713,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(714,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(718,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(719,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(720,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(721,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(722,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(728,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(729,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(730,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(731,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(735,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(736,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(737,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(738,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(739,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(747,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(747,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(758,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(758,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(759,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(759,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(759,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(760,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(765,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(765,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(766,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(766,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(766,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(767,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(769,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(771,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(792,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(792,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(795,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(796,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(797,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(798,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(804,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(804,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(807,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(808,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(809,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(810,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(816,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\P3 Exercise\p3.cpp(818,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  P3 Exercise.vcxproj -> C:\Users\wenzh\Desktop\graphic t\source\repos\P3 Exercise\x64\Debug\P3 Exercise.exe
